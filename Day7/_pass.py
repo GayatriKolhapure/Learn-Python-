@@ -1,9 +1,18 @@
-for i in range (645):
-    pass
+# for i in range (645):
+#     pass
 
 
 
-i=1
-while(i < 20):
+# i=1
+# while(i < 20):
+#     print(i)
+#     i += 1
+
+
+
+
+l = [1, 8, 5]
+for i in l:
     print(i)
-    i += 1
+else:
+    print("done")

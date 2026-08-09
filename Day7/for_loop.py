@@ -3,9 +3,13 @@
 #     i+=1
 
 
-for i in range(100):
-    if(i == 50):
-        continue
-    if(i == 90):
-        break
+# for i in range(100):
+#     if(i == 50):
+#         continue
+#     if(i == 90):
+#         break
+#     print(i)
+
+s = "Harry"
+for i in s:
     print(i)
